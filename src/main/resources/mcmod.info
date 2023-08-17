@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fastplace",
+  "name": "FastPlace",
+  "description": "This mod removes the delay of the right mouse button",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["vepexlegit"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
