@@ -1,8 +1,8 @@
 [
 {
-  "modid": "fastplace",
-  "name": "FastPlace",
-  "description": "This mod removes the delay of the right mouse button",
+  "modid": "fastplacedebug",
+  "name": "FastPlaceDebug",
+  "description": "This mod is an addition to the main fastplace mod.\nThis add-on will help you turn fastplace on or off",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
