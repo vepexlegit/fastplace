@@ -1,8 +1,8 @@
 {
   "required": true,
   "minVersion": "0.7",
-  "package": "de.vepexlegit.fastplace.mixins",
-  "refmap": "mixins.fastplace.refmap.json",
+  "package": "de.vepexlegit.fastplacedebug.mixins",
+  "refmap": "mixins.fastplacedebug.refmap.json",
   "compatibilityLevel": "JAVA_8",
   "client": [
     "MixinMinecraft"
